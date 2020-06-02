@@ -1,0 +1,2 @@
+# CUIDATES
+GitHub Pages
