@@ -3054,13 +3054,13 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "1",
-            "sound": "https://soundcloud.com/juanxito-j-kastro/dj-juan-mix-de-musica-ligera-rock-de-los-80-y-90-megamix",
+            "sound": "https://soundcloud.com/mezclazetas/musica-disco",
             "autoplay": true,
-            "fullWidth": false,
-            "bgColor": "#fff"
+            "fullWidth": true,
+            "bgColor": "#efefef"
           },
-          "iframeSRC": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F196924256&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
-          "soundURL": "url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F196924256",
+          "iframeSRC": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F188528235&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
+          "soundURL": "url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F188528235",
           "alias": "soundcloud",
           "_tags": [
             "Extension"
