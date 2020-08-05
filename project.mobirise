@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "quedate_en_casa_tes",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3058,8 +3058,8 @@
         {
           "_afterNavbarItem": false,
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "sound": "https://soundcloud.com/djaychinointhemixxx/charlie-zaa-boleros-mix-exitos",
             "autoplay": true,
             "fullWidth": true,
